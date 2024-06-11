@@ -2,7 +2,7 @@
 - 👀 I’m interested in GenAI, deep learning, Quant Finance
 - 🌱 I’m currently learning ...Quant Finance, Predictive Modelling
 - 💞️ I’m looking to collaborate on ... Data Analysis, LLM, Fiancial Modelling, GenAI,
-- 📫 How to reach me ...
+- 📫 How to reach me ... naman.aw12@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I talk a lot
 
