@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namm9an
 - 👀 I’m interested in GenAI, deep learning, Quant Finance
-- 🌱 I’m currently a Machine Learning Engg
+- 🌱 I’m currently working as a Machine Learning Engg
 - 💞️ I’m looking to collaborate on ... Data Analysis, LLM, Fiancial Modelling, GenAI,
 - 📫 How to reach me ... naman.aw12@gmail.com
 - 😄 Pronouns: ...He/Him
